@@ -1,0 +1,13 @@
+ENTREGA 2 - AVANCE
+
+✔ Ya funciona:
+- Generación de archivos de prueba (vendedores, productos y ventas).
+- Lectura de archivos de texto desde Java.
+- Cálculo de ventas totales por vendedor.
+- Cálculo de cantidades vendidas por producto.
+- Creación de reportes preliminares.
+
+❌ Falta por implementar:
+- Validar errores en los archivos (datos mal escritos, precios negativos, etc.).
+- Mejorar la presentación de los reportes (formato más claro).
+- Posibilidad de procesar varios archivos de un mismo vendedor.

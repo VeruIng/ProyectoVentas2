@@ -1,0 +1,5 @@
+P1;Shampoo;18706
+P2;Perfume;18611
+P3;Labial;7857
+P4;Perfume;14762
+P5;Perfume;4709
