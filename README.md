@@ -6,16 +6,18 @@ Integrantes
 - lina marcela perez murcia
 - mayerly agudelo monje
 
-Descripción
+
 Este proyecto corresponde a la segunda entrega de la asignatura Conceptos Fundamentales de Programación.  
 En esta fase trabajamos en la generación de reportes a partir de los archivos de productos, vendedores y ventas creados en la primera entrega.
 
  Objetivos
+ 
 - Leer y procesar archivos de texto con información de vendedores, productos y ventas.
 - Generar reportes ordenados de manera automática.
 - Practicar estructuras de datos como `Map`, ciclos y manejo de archivos en Java.
 
 Archivos principales
+
 - GenerateInfoFiles.java → Genera los archivos de vendedores, productos y ventas (ya coherentes entre sí).  
 - Main.java → Procesa los archivos generados y crea reportes.  
 - productos.txt → Lista de productos con su precio.  
